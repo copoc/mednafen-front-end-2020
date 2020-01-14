@@ -4,9 +4,13 @@
  
 ![mfe logo](resources/mfe.png)
  https://github.com/hristoast/mfe is one of them, but it is late for several steps from contemporary phase of MEDNAFEN.
-this is a derivative work for mednafen wrapper. 
 
-![mfe logo](resources/mfe.png)
+
+**this is a derivative work for mednafen wrapper. 
+
+
+
+
 
 A GUI frontend for [mednafen](http://mednafen.sourceforge.net/).
 
