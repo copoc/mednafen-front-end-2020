@@ -1,5 +1,10 @@
-# mfe
+# mfe20
 ----
+ [MEDNAFEN](http://mednafen.sourceforge.net/) is a multi-console rewinding game emulator that is being developed actively. its launching is not trivial, so it needs a frontend wrapper
+ 
+![mfe logo](resources/mfe.png)
+ https://github.com/hristoast/mfe is one of them, but it is late for several steps from contemporary phase of MEDNAFEN.
+this is a derivative work for mednafen wrapper. 
 
 ![mfe logo](resources/mfe.png)
 
